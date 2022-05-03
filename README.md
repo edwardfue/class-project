@@ -1,4 +1,6 @@
-# class-project
+# Spring2021
 
-Hello here are some of my porject that I work on in college.
-I'm open for any suggestion how how to make some the code be more effecitive 
+Hello here are some project that I work on during one of class in ther spring of 2021. 
+Open for suggestion on how to improve or make some the clodes look more clearner or more
+effective.
+Thank You!
